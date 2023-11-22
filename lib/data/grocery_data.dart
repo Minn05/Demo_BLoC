@@ -14,7 +14,7 @@ class GroceryData {
       'description': 'Full-fat dairy milk',
       'price': 2.49,
       'imageUrl':
-          'https://cdn.britannica.com/77/200377-050-4326767F/milk-splashing-glass.jpg'
+          'https://product.hstatic.net/200000438877/product/dalat-milk-sua-tuoi-thanh-trung-khong-duong-hop-nho_ea961ac15a3b46378dd8e74e909a34fa_1024x1024.jpg'
     },
     {
       'id': '3',
@@ -38,7 +38,7 @@ class GroceryData {
       'description': 'Boneless chicken breast',
       'price': 6.99,
       'imageUrl':
-          'https://www.allrecipes.com/thmb/SoBuPU73KcbYHl3Kp3j8Xx4A3fc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8805-CrispyFriedChicken-mfs-3x2-072-d55b8406d4ae45709fcdeb58a04143c2.jpg'
+          'https://www.spendwithpennies.com/wp-content/uploads/2020/05/1200-Rotisserie-Chicken-SpendWithPennies-11.jpg'
     },
     {
       'id': '6',
