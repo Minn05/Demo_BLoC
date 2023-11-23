@@ -3,7 +3,6 @@ import 'dart:async';
 import 'package:bloc/bloc.dart';
 import 'package:demobloc/features/home/models/home_product_model.dart';
 import 'package:meta/meta.dart';
-
 import '../../../data/cart_items.dart';
 
 part 'cart_event.dart';
